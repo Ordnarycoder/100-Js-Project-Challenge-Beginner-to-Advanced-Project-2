@@ -1,0 +1,1 @@
+Second js project from 100 js project challenge. And again fibonacci sequence.
